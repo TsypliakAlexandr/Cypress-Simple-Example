@@ -40,4 +40,5 @@ npx cypress open
 
 ## References
 - [Handling variables in Cypress](https://docs.cypress.io/guides/core-concepts/variables-and-aliases)
-- [Interacting with web UI elements](https://docs.cypress.io/api/commands/get)
+- [Interacting with web UI elements in Cypress](https://docs.cypress.io/api/commands/get)
+- [Interacting with API via Cypress](https://docs.cypress.io/api/commands/request)
